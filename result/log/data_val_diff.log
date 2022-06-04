@@ -1,0 +1,13 @@
+[2022/03/09 11:58:30] root INFO: length: 
+[2022/03/09 11:58:30] root INFO: 	mean diff: check passed: True, value: 0.0
+[2022/03/09 11:58:30] root INFO: dataloader_0: 
+[2022/03/09 11:58:30] root INFO: 	mean diff: check passed: True, value: 0.0
+[2022/03/09 11:58:30] root INFO: dataloader_1: 
+[2022/03/09 11:58:30] root INFO: 	mean diff: check passed: True, value: 0.0
+[2022/03/09 11:58:30] root INFO: dataloader_2: 
+[2022/03/09 11:58:30] root INFO: 	mean diff: check passed: True, value: 0.0
+[2022/03/09 11:58:30] root INFO: dataloader_3: 
+[2022/03/09 11:58:30] root INFO: 	mean diff: check passed: True, value: 0.0
+[2022/03/09 11:58:30] root INFO: dataloader_4: 
+[2022/03/09 11:58:30] root INFO: 	mean diff: check passed: True, value: 0.0
+[2022/03/09 11:58:30] root INFO: diff check passed
