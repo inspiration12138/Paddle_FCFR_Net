@@ -1,0 +1,1 @@
+[{'name': 'wmtdtp', 'rank': -1, 'replicas': 1, 'dtype': 'gpu', 'candidate': '10.150.10.62:38385', 'endpoints': '10.150.10.62:43755'}]
